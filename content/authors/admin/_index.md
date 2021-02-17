@@ -22,19 +22,22 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of L'Aquila
+    url: https://www.univaq.it/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Tech Computer Science and Engineering
+      institution: Amrita University
+      year: 2016
+    - course: B.Tech Computer Science and Engineering
+      institution: Amrita University
+      year: 2014
+    - course: M.Sc Computer Science
+      institution: University of L'Aquila
+      year: 2016
+    - course: Ph.D. Computer Science
+      institution: Gran Sasso Science Institute
+      year: 2011
 email: ""
 superuser: true
 highlight_name: false
