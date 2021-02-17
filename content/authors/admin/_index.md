@@ -37,7 +37,7 @@ education:
       year: 2016
     - course: Ph.D. Computer Science
       institution: Gran Sasso Science Institute
-      year: 2011
+      year: 2021
 email: ""
 superuser: true
 highlight_name: false
