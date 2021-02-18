@@ -26,18 +26,18 @@ organizations:
     url: https://www.univaq.it/
 education:
   courses:
+    - course: Ph.D. Computer Science
+      institution: Gran Sasso Science Institute
+      year: 2021
+    - course: M.Sc Computer Science
+      institution: University of L'Aquila
+      year: 2016
     - course: M.Tech Computer Science and Engineering
       institution: Amrita University
       year: 2016
     - course: B.Tech Computer Science and Engineering
       institution: Amrita University
       year: 2014
-    - course: M.Sc Computer Science
-      institution: University of L'Aquila
-      year: 2016
-    - course: Ph.D. Computer Science
-      institution: Gran Sasso Science Institute
-      year: 2021
 email: ""
 superuser: true
 highlight_name: false
