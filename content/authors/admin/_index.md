@@ -27,16 +27,16 @@ organizations:
 education:
   courses:
     - course: Ph.D. Computer Science
-      institution: Gran Sasso Science Institute
+      institution: Gran Sasso Science Institute, Italy
       year: 2021
     - course: M.Sc Computer Science
-      institution: University of L'Aquila
+      institution: University of L'Aquila, Italy
       year: 2016
     - course: M.Tech Computer Science and Engineering
-      institution: Amrita University
+      institution: Amrita University, India
       year: 2016
     - course: B.Tech Computer Science and Engineering
-      institution: Amrita University
+      institution: Amrita University, India
       year: 2014
 email: ""
 superuser: true
