@@ -42,6 +42,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: featured.jpg
 date: 2013-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
