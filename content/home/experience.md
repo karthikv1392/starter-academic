@@ -33,7 +33,7 @@ experience:
   - title: Subject Matter Expert (Cultore Della Materia)
     company: University of L'Aquila
     company_url: 'https://www.univaq.it/'
-    location: California, Italy
+    location: L'Aquila, Italy
     date_start: '2021-01-28'
     date_end: ''
     description: Giving lectures on different specific technical/conceptual topics related to software architecture. This includes topics such as Event-driven architectures, Apache Kafka, etc.
