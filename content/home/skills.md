@@ -24,7 +24,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Machine Learning
-- description: %
+- description: 80%
   icon: docker
   icon_pack: fas
   name: Software Development
