@@ -26,7 +26,7 @@ feature:
   name: Machine Learning
 - description: 80%
   icon: docker
-  icon_pack: fas
+  icon_pack: fab
   name: Software Development
 
 # Uncomment to use emoji icons.
