@@ -51,7 +51,7 @@ experience:
     date_start: '2014-08-01'
     date_end: '2015-08-01'
     description: Helping professors in designing tutorials, grading assignments and marks calculation, conducting lab sessions and evaluation of lab works, lab assistant of International Collegiate Programming Contest (ICPC) training lab, hoisting and managing of programming contests (Managed Aspirations 2020 Programming Contest conducted by Infosys, India in 2014).
-  - title: Software Development Intern
+  - title: Software Developer Intern
     company: Infosys
     company_url: 'https://www.infosys.com/'
     location: Mysuru India
