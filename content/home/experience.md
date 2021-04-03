@@ -35,8 +35,7 @@ experience:
     location: L'Aquila, Italy
     date_start: '2021-01-28'
     date_end: ''
-    description: Providing lectures on different specific technical/conceptual topics related to software architecture to Master's degreee students. This includes 
-    topics such as Event-driven architectures, Apache Kafka, etc.
+    description: Providing lectures on different specific technical/conceptual topics related to software architecture to Master's degreee students. This includes topics such as Event-driven architectures, Apache Kafka, etc.
   - title: Product Lead
     company: Knowledge Lens
     company_url: 'https://www.knowledgelens.com/'
