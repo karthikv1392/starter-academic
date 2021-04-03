@@ -37,14 +37,14 @@ experience:
     date_end: ''
     description: Providing lectures on different specific technical/conceptual topics related to software architecture to Master's degreee students. This includes 
     topics such as Event-driven architectures, Apache Kafka, etc.
- -  title: Product Lead
+  - title: Product Lead
     company: Knowledge Lens
     company_url: 'https://www.knowledgelens.com/'
     location: Bengaluru, India
     date_start: '2016-10-01'
     date_end: '2017-06-30'
     description: Lead the development of multiple products majorly focuing on Industry 4.0 and big data technologies like Hadoop, Spark, Hive, MapR etc. Further, also took up the responsibility of a data scientitst for developing various forecasting, prediction and anomaly detection algorithms.
- -  title: Academic Assistant
+  - title: Academic Assistant
     company: Amrita Vishwa Vidyapeetham
     company_url: 'https://www.amrita.edu'
     location: Kollam, India
