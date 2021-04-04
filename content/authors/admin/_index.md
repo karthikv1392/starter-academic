@@ -1,7 +1,6 @@
 ---
 title: Karthik Vaidhyanathan
 role: Postdoctoral Researcher
-avatar_filename: karthik_profile_270.jpg
 bio: My research interests include Software architecture, Machine learning and
   Self-adaptive systems
 interests: []
