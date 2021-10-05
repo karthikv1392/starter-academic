@@ -20,7 +20,7 @@ url_video: "https://www.youtube.com/watch?v=qbu1gy0gcSM"
 title: "A Machine Learning Approach to Service Discovery for Microservice Architectures"
 doi: 10.1007/978-3-030-86044-8_5
 featured: true
-tags: []
+tags: [microservices, machine learning, deep learning, reinforcement learning, software architecture]
 projects: []
 image:
   caption: ""
@@ -34,12 +34,12 @@ url_poster: ""
 url_code: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+<!--{{% callout note %}}
+//Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+##{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+##{{% callout note %}}
+##Create your slides in Markdown - click the *Slides* button to check out the example.
+##{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+##Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).-->
