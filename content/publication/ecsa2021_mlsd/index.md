@@ -26,7 +26,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: featured.png
+  filename: mlsd_meth.png
 date: 2021-08-26T00:00:00Z
 url_slides: ""
 publishDate: 2021-08-26T00:00:00Z
