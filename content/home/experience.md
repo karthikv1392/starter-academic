@@ -28,14 +28,14 @@ experience:
     location: L'Aquila, Italy
     date_start: '2021-02-01'
     date_end: ''
-    description: Working on Italian national funded project, VASARI. A project focussing on improving the overall visitor experience of the different musuems in Italy    
+    description: Working on Italian national funded project, <a href="https://www.vasariartexperience.it">VASARI</a> and Working on cutting edge research in the intersection of Software Architecture and Machine Learning.
   - title: Subject Matter Expert (Cultore Della Materia)
     company: University of L'Aquila
     company_url: 'https://www.univaq.it/'
     location: L'Aquila, Italy
     date_start: '2021-01-28'
     date_end: ''
-    description: Providing lectures on different specific technical/conceptual topics related to software architecture to Master's degreee students. This includes topics such as Event-driven architectures, Apache Kafka, etc.
+    description: Providing lectures on specific technical/conceptual topics related to software architecture to Master's degreee students. This includes topics such as Architectural Viewpoints, Microservices, Event-driven architectures, Apache Kafka and Cloud computing.
   - title: Product Lead
     company: Knowledge Lens
     company_url: 'https://www.knowledgelens.com/'

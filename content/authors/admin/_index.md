@@ -41,4 +41,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Karthik Vaidhyanathan is a postdoctoral researcher at the University of L'Aquila, Italy. His research interests lie in the intersection of Software Architecture and Machine Learning. He is also involved in an Italian funded project, VASARI, which aims to create a smart visiting experience for museum visitors.
+Karthik Vaidhyanathan is a postdoctoral researcher at the University of L'Aquila, Italy. His research area lie in the intersection of Software Architecture and Machine Learning. He is also involved in an Italian national funded project, VASARI, which aims to create an inclusive and immersive cultural experience for the visitors of the heritage sites in Italy.

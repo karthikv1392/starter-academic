@@ -9,25 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Interests
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 80%
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: 80%
+- description:
+  icon: network-wired
+  icon_pack: fas
+  name: Software Architecture
+- description:
   icon: chart-line
   icon_pack: fas
   name: Machine Learning
-- description: 80%
-  icon: docker
-  icon_pack: fab
-  name: Software Development
+- description:
+  icon: undo
+  icon_pack: fas
+  name: Self-adaptive Systems
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
