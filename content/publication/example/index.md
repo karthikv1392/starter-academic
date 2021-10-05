@@ -1,40 +1,24 @@
 ---
-abstract: Architecting IoT systems able to guarantee Quality of Service (QoS)
-  levels can be a challenging task due to the inherent uncertainties (induced by
-  changes in e.g., energy availability, network traffic) that they are subject
-  to. Existing work has shown that machine learning (ML) techniques can be
-  effectively used at run time for selecting self-adaptation patterns that can
-  help maintain adequate QoS levels. However, this class of approach suffers
-  from learning bias, which induces accuracy problems that might lead to
-  sub-optimal (or even unfeasible) adaptations in some situations. To overcome
-  this limitation, we propose an approach for proactive self-adaptation which
-  combines ML and formal quantitative verification (probabilistic model
-  checking). In our approach, ML is tasked with selecting the best adaptation
-  pattern for a given scenario, and quantitative verification checks the
-  feasibility of the adaptation decision, preventing the execution of unfeasible
-  adaptations and providing feedback to the ML engine which helps to achieve
-  faster convergence towards optimal decisions. The results of our evaluation
-  show that our approach is able to produce better decisions than ML and
-  quantitative verification used in isolation.
+abstract: Service discovery mechanisms have continuously evolved during the last years to support the effective and efficient service composition in large-scale microservice applications. Still, the dynamic nature of services (and of their contexts) are being rarely taken into account for maximizing the desired quality of service. This paper proposes using machine learning techniques, as part of the service discovery process, to select microservice instances in a given context, maximize QoS, and take into account the continuous changes in the execution environment. Both deep neural networks and reinforcement learning techniques are used. Experimental results show how the proposed approach outperforms traditional service discovery mechanisms.
 slides: ""
 url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Javier Camara
+  - Mauro Caporuscio
+  - Marco De Toma
   - Henry Muccini
   - Karthik Vaidhyanathan
 author_notes: []
-publication: In *IEEE International Conference on Software Architecture (ICSA) 2020*
+publication: In *15th European Conference on Software Architecture (ECSA) 2021*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICSA*
+publication_short: In *ECSA 2021*
 url_source: ""
 url_video: ""
-title: "Quantitative Verification-Aided Machine Learning: A Tandem Approach for
-  Architecting Self-Adaptive IoT Systems"
-doi: 10.1109/ICSA47634.2020.00010
+title: "A Machine Learning Approach to Service Discovery for Microservice Architectures"
+doi: 10.1007/978-3-030-86044-8_5
 featured: true
 tags: []
 projects: []
@@ -43,9 +27,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.png
-date: 2020-07-01T00:00:00Z
+date: 2021-26-08T00:00:00Z
 url_slides: ""
-publishDate: 2020-01-01T00:00:00Z
+publishDate: 2021-26-08T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
