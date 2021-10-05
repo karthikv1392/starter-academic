@@ -1,7 +1,7 @@
 ---
 abstract: Service discovery mechanisms have continuously evolved during the last years to support the effective and efficient service composition in large-scale microservice applications. Still, the dynamic nature of services (and of their contexts) are being rarely taken into account for maximizing the desired quality of service. This paper proposes using machine learning techniques, as part of the service discovery process, to select microservice instances in a given context, maximize QoS, and take into account the continuous changes in the execution environment. Both deep neural networks and reinforcement learning techniques are used. Experimental results show how the proposed approach outperforms traditional service discovery mechanisms.
 slides: ""
-url_pdf: ""
+url_pdf: "ECSA2021_MLSD.pdf"
 publication_types:
   - "1"
 authors:
@@ -16,7 +16,7 @@ url_dataset: ""
 url_project: ""
 publication_short: In *ECSA 2021*
 url_source: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=qbu1gy0gcSM"
 title: "A Machine Learning Approach to Service Discovery for Microservice Architectures"
 doi: 10.1007/978-3-030-86044-8_5
 featured: true
