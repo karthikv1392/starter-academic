@@ -23,7 +23,7 @@ featured: true
 tags: [microservices, machine learning, deep learning, reinforcement learning, software architecture]
 projects: []
 image:
-  caption: ""
+  caption: "Overall methodology"
   focal_point: ""
   preview_only: false
   filename: mlsd_meth.png
