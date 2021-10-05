@@ -17,7 +17,7 @@ abstract: Architecting IoT systems able to guarantee Quality of Service (QoS)
   show that our approach is able to produce better decisions than ML and
   quantitative verification used in isolation.
 slides: ""
-url_pdf: ""
+url_pdf: "icsa2020_qvml.pdf"
 publication_types:
   - "1"
 authors:
@@ -29,20 +29,20 @@ publication: In *IEEE International Conference on Software Architecture (ICSA) 2
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICSA*
+publication_short: In *ICSA 2020*
 url_source: ""
 url_video: ""
 title: "Quantitative Verification-Aided Machine Learning: A Tandem Approach for
   Architecting Self-Adaptive IoT Systems"
 doi: 10.1109/ICSA47634.2020.00010
 featured: true
-tags: []
+tags: [quantitave verification, machine learning, self-adaptation, reinforcement learning, software archtecture]
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: 
+  filename:
 date: 2020-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2020-01-01T00:00:00Z
