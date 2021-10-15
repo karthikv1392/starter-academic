@@ -7,21 +7,18 @@ abstract: Microservice-based systems have become enormously popular since
   imperative that one understands clearly the fundamental concepts, advantages,
   and disadvantages of using microservices. Towards this end, the main goal of
   this short lecture series is to provide students with foundational knowledge
-  on microservice architecture with a background on the history and motivation
-  behind the evolution of microservices. The lecture series is divided into two
-  days. The focus of the first day will be to provide details on the how, what,
-  and why of microservices along with the advantages, disadvantages, design
-  patterns, and common usage scenarios. The second day of the lecture will focus
-  on more practical aspects with a demo explaining the technologies for
-  implementing and deploying microservices as containers on the cloud and
-  technologies for monitoring microservices in production.
-slides: example
-url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+  on microservice architecture and how they can be used for developing mobile applications, with a background on the history and motivation
+  behind the evolution of microservices.
+slides: "Microservice_SDU.pdf"
+url_pdf: "Microservices_SDU.pdf"
+summary: Talk on building microservice based systems with focus on mobile Apps
 title: "Microservices: from Theory to Practice"
-location: University of L'Aquila
-date: 2021-12-01T09:10:00.000Z
-date_end: 2021-12-01T10:40:00.000Z
+location: University of Sothern Denmark
+date: 2021-10-16T09:10:15.000Z
+date_end: 2021-10-16T13:15:00.000Z
+all_day: false
+event: Guest Seminar Lecture
+event_url:
 all_day: false
 event: Guest Seminar Lecture
 event_url: https://univaq.it
