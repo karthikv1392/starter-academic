@@ -9,8 +9,8 @@ abstract: Microservice-based systems have become enormously popular since
   this short lecture series is to provide students with foundational knowledge
   on microservice architecture and how they can be used for developing mobile applications, with a background on the history and motivation
   behind the evolution of microservices.
-slides: "Microservice_SDU.pdf"
-url_pdf: "Microservices_SDU.pdf"
+slides: Microservice_SDU.pdf
+url_pdf: Microservices_SDU.pdf
 summary: Talk on building microservice based systems with focus on mobile Apps
 title: "Microservices: from Theory to Practice"
 location: University of Sothern Denmark
