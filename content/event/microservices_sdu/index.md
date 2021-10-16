@@ -19,27 +19,24 @@ date_end: 2021-10-16T13:15:00.000Z
 all_day: false
 event: Guest Seminar Lecture
 event_url:
-all_day: false
-event: Guest Seminar Lecture
-event_url: https://univaq.it
 featured: false
 authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street:
+  city:
+  region:
+  postcode:
+  country: Denmark
 links: []
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2021-10-16T00:00:00Z
 tags: []
 projects:
   - example
 image:
   caption: ""
   focal_point: Right
-  filename: featured.jpg
+  filename: front.png
 url_code: ""
 ---
