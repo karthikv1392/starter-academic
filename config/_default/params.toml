@@ -97,8 +97,7 @@ address = {street = "Via Vetoio", city = "L'Aquila", region = "Abruzzo", postcod
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
-
+coordinates = {latitude = "42.36719037601746", longitude = "13.352087563317841"}
 # Directions for visitors to locate you.
 directions = ""
 
@@ -269,8 +268,8 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
-  google_tag_manager = ""
+  google_analytics = "G-R5BMKGV891"
+  google_tag_manager = "G-R5BMKGV891"
   google_site_verification = ""
 
 ############################
